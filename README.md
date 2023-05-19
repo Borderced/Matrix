@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 
 Ahora con toda libertad puedes correr el programa :)
 ```
-$ python3 Main.py
+$ python3 main.py
 ```
 
 para desactivar el entorno virtual:
